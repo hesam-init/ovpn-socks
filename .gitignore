@@ -14,6 +14,7 @@ build/
 dist/
 .venv/
 venv/
+repomix-output.md
 
 # Editors
 .vscode/
